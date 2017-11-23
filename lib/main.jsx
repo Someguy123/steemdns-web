@@ -7,7 +7,7 @@ import notie from 'notie';
 const options = {
     apis: ["database_api", "network_broadcast_api"],
     // url: "wss://node.steem.ws"
-    url: "wss://steemit.com:443/wspa"
+    url: "wss://steemd.steemit.com"
 };
 
 
